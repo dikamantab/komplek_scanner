@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238021585239",
+    "project_id": "komplek-scanner",
+    "storage_bucket": "komplek-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238021585239:android:dbae4c98f173c0ee0e7612",
+        "android_client_info": {
+          "package_name": "com.example.komplek_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238021585239-r64upn9ueavsqbot16n99bgri22q93h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0i-K_WYiu1ixZnliY074OMSuAyPna8I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238021585239-r64upn9ueavsqbot16n99bgri22q93h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
