@@ -47,7 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           const Text(
-            "My App Title",
+            "Komplek Scanner",
             style: TextStyle(
               color: Colors.black,
               fontSize: 28.0,
@@ -55,7 +55,7 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
           ),
           const Text(
-            "Login to Your App",
+            "Login Ke Aplikasi",
             style: TextStyle(
               color: Colors.black,
               fontSize: 44.0,
